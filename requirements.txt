@@ -1,6 +1,5 @@
 Flask==1.1.2
 numpy==1.18.0
-pandas==0.25.3
 librosa==0.8.0
 Werkzeug==1.0.1
 pickle-mixin==1.0.2
